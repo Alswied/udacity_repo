@@ -29,6 +29,7 @@ This is a repository to gain familiarity with Git and GitHub.
   - Filter commits by message: `git log --grep="bug"`
   - Filter commits by author: `git log --author="AuthorName"`
   - Show all branches and commits: `git log --oneline --decorate --graph --all`
+- `git log --oneline origin/main`: Check what is on remote.
 
 ---
 
